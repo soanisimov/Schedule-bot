@@ -9,7 +9,7 @@ from datetime import datetime, timedelta
 # from aiogram import F, Router
 
 
-bot = Bot(token="6175048318:AAE6iuvqFO8d233Xrw1WnTsFBt7KwU_XQYA")
+bot = Bot(token="")
 dp = Dispatcher()
 
 schedule = [
